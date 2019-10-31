@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:title="随机重复增加一部电影记录"
+        android:id="@+id/menuAdd"/>
+
+    <item
+        android:title="随机删减一部电影"
+        android:id="@+id/menuDecline"/>
+</menu>
